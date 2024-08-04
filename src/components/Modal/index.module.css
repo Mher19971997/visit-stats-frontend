@@ -1,0 +1,9 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.closeIcon{
+    font-size: 30px;
+    color: black;
+    cursor: pointer;
+}
