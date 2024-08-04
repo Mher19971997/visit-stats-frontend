@@ -37,5 +37,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 
 ## Video Preview
-
-You can view the video [here](https://github.com/Mher19971997/visit-stats-frontend/blob/main/visit-stats.MOV).
+[![Video Thumbnail](https://github.com/Mher19971997/visit-stats-frontend/blob/main/visit.stats.jpg)](https://github.com/Mher19971997/visit-stats-frontend/raw/main/visit-stats.MOV)
